@@ -1,0 +1,20 @@
+^(?:(?:\+|0{0,2})91(\s*[\-]\s*)?|[0]?)?[789]\d{9}$
+
+
+Hi, This is regex for indian local mobile number validation and for Indian international .
+
+starting with 9,8,7,6 you can add more as well.
+
+Valid number are.
+
+9883443344
+09883443344
+919883443344
+0919883443344
++919883443344
++91-9883443344
+0091-9883443344
++91 -9883443344
++91- 9883443344
++91 - 9883443344
+0091 - 9883443344
